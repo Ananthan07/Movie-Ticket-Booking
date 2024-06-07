@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "../../django_movie_app"
+		},
+		{
+			"path": "../../media"
+		},
+		{
+			"path": ".."
+		}
+	]
+}
